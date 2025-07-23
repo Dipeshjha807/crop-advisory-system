@@ -34,7 +34,7 @@ Features include:
 - User-friendly interface
 - Offline compatible
 - Auto-stores predictions in local database
-
+ you can see ppt presentation here=https://github.com/Dipeshjha807/crop-advisory-system/blob/main/Crop_Advisory_System_PPT.pptx
 ## 🧑‍🎓 Author Info
 
 | Name                | Roll No.   | Registration No. |
