@@ -35,6 +35,7 @@ Features include:
 - Offline compatible
 - Auto-stores predictions in local database
 - you can see ppt presentation here=https://github.com/Dipeshjha807/crop-advisory-system/blob/main/Crop_Advisory_System_PPT.pptx
+- demo video( here you can see the demo video in my youtube channel=https://youtu.be/92TQ-YpZ0Yo?si=DHUDBBSsEFwjsDoT
 ## 🧑‍🎓 Author Info
 
 | Name                | Roll No.   | Registration No. |
@@ -42,7 +43,7 @@ Features include:
 | Dipesh Jha          | 24CSE222   | 24UG010286       |
 | Sibu Narayan Pati   | 24CSE206   | 24UG010270       |
 | Rohan Mohapatra     | 24CSE366   | 24UG010423       |
-| Amartya Sarangi     | 24CSE409   | 24UG010466       |
+
 
 ---
 
